@@ -80,7 +80,7 @@ main {
           'job1 job2 job3';
   grid-template-columns: repeat(3, 1fr);
 
-  .bio-image {
+  .bio-img {
     grid-area: bioimage;
     margin: auto;
     border-radius: 50%;
